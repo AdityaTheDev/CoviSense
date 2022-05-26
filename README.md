@@ -5,6 +5,9 @@ Detects covid -19
 # Download here
 https://rb.gy/oabwdl
 
+# Installation Guide
+
+[CoviSense Installation Guide-1 (1).pdf](https://github.com/AdityaTheDev/CoviSense/files/8775557/CoviSense.Installation.Guide-1.1.pdf)
 
 
 https://user-images.githubusercontent.com/84168117/170396602-63dd0cf1-bfee-4c3d-8ebe-15bbf884c88a.mp4
@@ -16,9 +19,7 @@ https://user-images.githubusercontent.com/84168117/170396602-63dd0cf1-bfee-4c3d-
 ![Screenshot_2022-05-26-06-56-47-75](https://user-images.githubusercontent.com/84168117/170396828-fb4a0bf9-a7f0-4d2c-a896-c038d824f4aa.jpg)
 ![Screenshot_2022-05-26-06-57-29-28](https://user-images.githubusercontent.com/84168117/170396891-ee412df8-e16c-4ea9-b734-da5f645aa10c.jpg)
 
-# Installation Guide
 
-[CoviSense Installation Guide-1 (1).pdf](https://github.com/AdityaTheDev/CoviSense/files/8775557/CoviSense.Installation.Guide-1.1.pdf)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
