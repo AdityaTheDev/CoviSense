@@ -1,6 +1,6 @@
-# app1
+# CoviSense
 
-A new Flutter project.
+Detects covid -19
 
 ## Getting Started
 
