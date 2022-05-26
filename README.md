@@ -1,6 +1,19 @@
 # CoviSense
 
-Detects covid -19
+CoviSense is a mobile application that detects various viruses. It is powered by my covid-19
+detection deep learning model. It recognizes coronavirus by looking at the image that you
+upload. The image should be an Xray image. It predicts the result with a confidence score. The
+deep learning model’s confidence about its prediction is called the confidence score. The app is powered by a deep learning model which is a Convolutional Neural Network. A
+convolutional neural network (CNN) is a type of artificial neural network used in
+image recognition and processing that is specifically designed to process pixel data.
+If you are interested to learn more about Convolutional neural networks then you can
+google it out. So, yeah I have built a CNN model and trained using three different
+classes of images, covid-19 x rays, pneumonia x rays and normal x rays(without any
+disease). After building my deep learning model I made a mobile application and a
+Web app integrating it with my deep learning model. Ofcourse, training the model
+and building an application is a cumbersome task. My deep learning model achieved
+a precision of 74.5% and a recall of 67.7%. I have been working on this product for a
+couple of months. I believe that apps are the future of medical diagnostics.
 
 # Download here
 https://rb.gy/oabwdl
